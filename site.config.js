@@ -11,7 +11,10 @@ const CONFIG = {
     instagram: '',
   },
   projects: [
-    
+    {
+      name: ``,
+      href: ''
+    }
   ],
   // blog setting (required)
   blog: {
@@ -50,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: 'SilverTree/morethan-log',
+      repo: 'SilverTree-KR/morethan-log',
       'issue-term': 'og:title',
       label: '💬 Utterances',
     }
