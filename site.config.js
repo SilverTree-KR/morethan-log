@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `스크립트 아카이브 커뮤니티`,
+      name: `준비 중`,
       href: ''
     }
   ],
